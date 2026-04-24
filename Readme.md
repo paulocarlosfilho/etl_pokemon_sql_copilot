@@ -1,6 +1,6 @@
 # E-CARDS Project (SQL COPILOT DBEAVER) Projeto de Extração e Catalogação de Cartas Pokémon TCG
 
-![background](backgorund.png)
+![background](background.png)
 
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido como parte da minha jornada de especialização em **Engenharia de Dados**.  
