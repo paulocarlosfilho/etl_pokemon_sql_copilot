@@ -1,5 +1,7 @@
 # E-CARDS Project (SQL COPILOT DBEAVER) Projeto de Extração e Catalogação de Cartas Pokémon TCG
 
+![background](background.png)
+
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido como parte da minha jornada de especialização em **Engenharia de Dados**.  
 O objetivo foi criar um processo de **ETL (Extract, Transform, Load)** utilizando **SQL**, com apoio do **Microsoft Copilot** para otimizar a escrita de consultas e do **DBeaver** como ferramenta de gerenciamento de banco de dados. É uma solução completa para extrair informações de imagens de cartas de Pokémon TCG, processar esses dados e armazená-los em um banco de dados PostgreSQL estruturado. Ele utiliza uma combinação de prompts de IA (para a extração de dados a partir de imagens) e scripts SQL para a criação, população e gerenciamento do banco de dados.
